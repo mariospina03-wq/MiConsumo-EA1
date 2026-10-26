@@ -8,6 +8,11 @@ miconsumo.exe
 _*.pdf
 _*.html
 
+# Superseded local exports and the assignment ZIP
+/Roman_Maribel_EA1_Consumo_Energia.pdf
+/Roman_Maribel_EA1_Consumo_Energia_FINAL.pdf
+/Román_Maribel_EA1 Programa orientado a objetos con vectores y matrices.zip
+
 # Windows metadata
 Thumbs.db
 Desktop.ini
