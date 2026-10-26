@@ -1,0 +1,13 @@
+# Generated executable and object files
+miconsumo
+miconsumo.exe
+*.o
+*.obj
+
+# Temporary draft PDFs and internal report generators
+_*.pdf
+_*.html
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
